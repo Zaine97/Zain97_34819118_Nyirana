@@ -25,7 +25,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:ConnStr"));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("Server = tcp:zainserver.database.windows.net, 1433; Initial Catalog = Cmpg323_Nyirana34819118_Project2; Persist Security Info=False; User ID = Zain; Password = 12452711@Zama; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30;"));
 
 // For Identity  
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
