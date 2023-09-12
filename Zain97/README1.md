@@ -1,4 +1,8 @@
-﻿# EcoPower Logistics CRUD RESTful API
+URL1 https://project234819118api.azure-api.net
+  URL2 https://zainproject2.azurewebsites.net/
+ 
+ 
+ # EcoPower Logistics CRUD RESTful API
 
 Welcome to the documentation for the EcoPower Logistics CRUD RESTful API. This API allows you to manage logistics data related to customers, orders, and products. Below, you'll find information on how to use the API, a list of available endpoints, and additional aspects that have been implemented.
 
