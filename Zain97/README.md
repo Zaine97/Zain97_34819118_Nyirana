@@ -1,7 +1,7 @@
 
 
-  URL https://project234819118api.azure-api.net
-  URL https://zainproject2.azurewebsites.net/
+  URL1 https://project234819118api.azure-api.net
+  URL2 https://zainproject2.azurewebsites.net/
  
  # EcoPower Logistics Management System Project
 
