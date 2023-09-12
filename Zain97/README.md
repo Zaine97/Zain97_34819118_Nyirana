@@ -1,4 +1,9 @@
-﻿# EcoPower Logistics Management System Project
+
+
+  URL https://project234819118api.azure-api.net
+  URL https://zainproject2.azurewebsites.net/
+ 
+ # EcoPower Logistics Management System Project
 
 Welcome to the EcoPower Logistics Management System project documentation. This README provides an overview of the project, its objectives, functionality, and instructions for stakeholders on how to use the reports developed as part of the project.
 
